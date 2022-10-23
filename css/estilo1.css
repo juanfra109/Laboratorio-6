@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+    text-align: justify;
+}
+h6{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+
+}
+img{
+    display:block;
+    margin:auto;
+    width: 30%;
+    height: 30%;
+}
+.cajadiv{
+    background-color: aliceblue;
+    padding: 20px;
+}
