@@ -1,3 +1,4 @@
+
 .cajadiv{
     background-color: aliceblue;
     padding: 20px;
@@ -22,21 +23,14 @@ p{
     font-size: 20px;margin-left: 20px;
     margin-right: 20px;
 }
-.carousel-inner{
-    height: 448px;
-    width: 207px;
-    display:block;
-    margin:auto;
-   }
-   .carousel-inner img {
-    width: 207px;
-    max-height: 448px;
-    display:block;
-    margin:auto;
-}
 .imagen{
     display:block;
     margin:auto;
     width: 30%;
     height: 30%;
+}
+.accordion-body{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
 }
